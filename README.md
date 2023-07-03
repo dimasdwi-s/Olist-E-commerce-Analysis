@@ -14,7 +14,7 @@ Olist E-commerce merupakan salah satu platform e-commerce terkemuka di Brazil. A
 
 # Relasi Database
 
-![logo](https://github.com/dimasdwi-s/Olist-E-commerce-Analysis/issues/1#issue-1784568356)
+![relasi database olist](https://github.com/dimasdwi-s/Olist-E-commerce-Analysis/assets/88280579/70c8e89e-d0b1-4f5d-a951-504de692fd52)
 
 Gambar di atas merupakan gambaran relasi dataset Olist E-commerce
 
